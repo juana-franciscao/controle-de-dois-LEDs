@@ -8,7 +8,7 @@ Docente: Amanda Paul Dull
 
 https://www.tinkercad.com/things/hQM8o24TLpU-desafioaula-5
 
-## Enunciado: Vamos ligar o LED!
+## Enunciado: Controle-de-dois-LEDs
 
 Após implementar o controle de um LED por meio do botão, você irá ampliar o circuito e a lógica de programação para controlar dois LEDs. O desafio consiste em utilizar os acionamentos do botão para alternar entre diferentes estados do sistema, explorando estruturas de programação para controlar as saídas.
 Adicione um segundo LED ao circuito e desenvolva uma lógica para que cada acionamento do botão altere o estado dos LEDs.
