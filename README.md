@@ -1,12 +1,11 @@
 # Controle-de-dois-LEDs
 
-# iot-exemplo-repositorio
-
 Discente: Juana de Oliveira Francicão
 
 Docente: Amanda Paul Dull
 
 [![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM)
+
 https://www.tinkercad.com/things/hQM8o24TLpU-desafioaula-5
 
 ## Enunciado: Vamos ligar o LED!
