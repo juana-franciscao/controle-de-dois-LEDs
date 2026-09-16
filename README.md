@@ -1,4 +1,4 @@
-# Controle-de-dois-LEDs
+# controle_de_dois_LEDs
 
 Discente: Juana de Oliveira Francicão
 
